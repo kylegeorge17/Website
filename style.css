@@ -11,12 +11,13 @@ body {
   background-repeat: repeat;
   font-size: 33px;
   background-color: maroon;
-  color: darkgreen;
+  color: red;
+  text-align: left;
 }
 
 h1 {
   font-size: 45px;
-  color: midnightblue;
+  color: darkred;
 }
 
 header h1 {
@@ -44,6 +45,7 @@ h1,h2,h3 {
 
 ul, ol {
   margin: 15px 0;
+  text-align: left;
 }
 
 a {
